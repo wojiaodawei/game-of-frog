@@ -1,0 +1,27 @@
+
+DOXYFILE_ENCODING      = UTF-8
+
+PROJECT_NAME           = "Grenouilloland"
+
+PROJECT_NUMBER         =1.0
+
+PROJECT_BRIEF          = jeu de plateau avec une grenouille
+
+OUTPUT_DIRECTORY       =./Documentation
+
+OUTPUT_LANGUAGE        = French
+
+BRIEF_MEMBER_DESC      = YES
+
+OPTIMIZE_OUTPUT_FOR_C  = NO
+
+LATEX			= NO
+
+INPUT                  = src/
+
+RECURSIVE              = YES
+
+
+
+
+
